@@ -3,12 +3,6 @@
 
 using namespace std;
 
-//comment
-/* multi
-line
-comment
-*/
-
 int main() {
     
     cout << "Satu" << endl;
@@ -32,8 +26,6 @@ int main() {
     cin >> e ;
     cout << "nilai yang telah anda masukkan adalah: ";
     cout << e << endl;
-
-    
 
     cin.get();
     return 0;

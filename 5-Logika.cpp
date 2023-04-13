@@ -8,6 +8,8 @@ int main() {
 
     bool hasil;
 
+    // operator logika : not, and , or
+
     // not, akan true jika si bilangan bool yang asli adalah false dan jika bilangan bool asli true si not akan false
     cout << "not \n";
     hasil = !(a == 3);
